@@ -14,9 +14,9 @@
 - 📫 How to reach me **unathit05@gmail.com**
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tshoniunathi&show_icons=true&locale=en&layout=compact" height="120" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tshoniunathi&show_icons=true&locale=en" height="120" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tshoniunathi" height="120" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tshoniunathi&show_icons=true&locale=en&layout=compact" height="110" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tshoniunathi&show_icons=true&locale=en" height="110" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tshoniunathi" height="110" alt="GitHub Streak" />
 </div>
 
 
