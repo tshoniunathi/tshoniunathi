@@ -11,14 +11,15 @@
 
 - 💬 Ask me about **HTML5 & CSS3**
 
-<p align="left">
-</p>
+- 📫 How to reach me **unathit05@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tshoniunathi&show_icons=true&locale=en&layout=compact" alt="tshoniunathi" /></p>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tshoniunathi&show_icons=true&locale=en&layout=compact" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tshoniunathi&show_icons=true&locale=en" height="140" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tshoniunathi" height="140" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tshoniunathi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</p>
+
 
 ###
 
@@ -36,11 +37,6 @@
 ###
 
 <div align="left">
-  <!-- Gmail badge with working mailto link -->
-  <a href="mailto:unathit05@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-
   <!-- LinkedIn badge with working external link -->
   <a href="https://www.linkedin.com/in/unathi-a-tshoni/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
