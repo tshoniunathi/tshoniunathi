@@ -36,9 +36,12 @@
 ###
 
 <div align="left">
-  <a href="mailto:unathit05@gmail.com" target="_blank">
+  <!-- Gmail badge with working mailto link -->
+  <a href="mailto:unathit05@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
+
+  <!-- LinkedIn badge with working external link -->
   <a href="https://www.linkedin.com/in/unathi-a-tshoni/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
