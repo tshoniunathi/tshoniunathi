@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Unathi Tshoni</h1>
 <h3 align="center">An aspiring self-learning frontend developer from South Africa</h3>
 
-- 🔭 I’m currently working on **EnviroPulse SA**
+- 🔭 I’m currently working on **Mzansi Miles**
 
 - 🌱 I’m currently learning **JavaScript & React**
 
