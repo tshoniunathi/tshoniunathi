@@ -61,6 +61,6 @@ I’ve explored frontend web development and continue to build my skills in it, 
  I am open to mentorship, suggestioms, resources and tips on how best way to reach my goals
 
  <h2> 📫Let's Connect</h2>
- Feel free to look into my progress so far and reach me at: tshoniunathi@gmail.com
+ <p> Reach me at <a>tshoniunathi@gmail.com</a></p>
 
 
