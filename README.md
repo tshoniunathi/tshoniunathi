@@ -9,7 +9,7 @@ That same curiosity is now what draws me into the tech world. I’m pursuing a p
 
 ###
 
-<h2> 💻 My adventure in tech</h2>
+<h2> 💻 My adventures in tech</h2>
 I’ve explored frontend web development and continue to build my skills in it, though my main focus has shifted toward AWS Cloud Computing. I am currently pursuing the AWS Cloud Practitioner certification with the AWS Re/Start Programe. Along this journey, I’ve discovered (so far),a strong interests in: 
 <ul>
   <li>🗄️Databases &rarr; data modelling, querying, and understanding how systems store and manage information</li>
