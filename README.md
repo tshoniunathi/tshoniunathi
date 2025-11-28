@@ -1,8 +1,8 @@
 <!--Level 1: Simple bio and stats-->
 
-<h1 align="center">Hi 👋, I'm Unathi Tshoni</h1>
+<h1>Hi 👋... I'M Unathi Tshoni</h1>
 
-<h2> 🎓 Academic turning technologist </h2>
+<h2> 🎓 Academic turning technologist 👩‍💻 </h2>
 I come from an academic and scientific research background, where curiosity and discovery were at the core of my work. Research taught me discipline, patience, and a love for discovering the essence of how things work below the surface.
 
 That same curiosity is now what draws me into the tech world. I’m pursuing a path in technology because it affords me the tools to be innovative, test ideas, and develop solutions that make a real, tangible difference. It also allows me space to invent and push boundaries, while solving meaningful problems through hands-on learning and creative experimentation.
