@@ -16,8 +16,11 @@ I’ve explored frontend web development and continue to build my skills in it, 
 <p>🐍Python – using programming to automate tasks, manipulate data, and build tools that solve real-world problems</p>
 
 <h2> 🚀 In the lab: Current Affairs</h2>
-- AWS Learning Modules  to get cloud practitioner certification
-- build a strong foundation in cloud computing
+<ul>
+  <li>AWS Learning Modules  to get cloud practitioner certification
+</li>
+  <li>- build a strong foundation in cloud computing</li>
+</ul>
 
 <h2> 🎯 What's next?</h2>
 - AWS Certified Solutions Architect
