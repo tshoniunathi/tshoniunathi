@@ -61,7 +61,8 @@ I’ve explored frontend web development and continue to build my skills in it, 
  I am open to mentorship, suggestioms, resources and tips on how best way to reach my goals
 
  <h2> 📫Let's Connect</h2>
-[Feel free to reach out via email](mailto:tshoniunathi@gmail.com)
+ <p>Feel free to reach out via email: <a href=""mailto:tshoniunathi@gmail.com>Unathi Tshoni</a></p>
+
 
 
 
