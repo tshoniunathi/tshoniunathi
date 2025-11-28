@@ -57,8 +57,8 @@ I’ve explored frontend web development and continue to build my skills in it, 
 
 ###
 
-<h2> 🤝 Cntributions</h2>
- I am open to mentorship, suggestioms, resources and tips on how best way to reach my goals
+<h2> 🤝 Contributions</h2>
+ I am open to mentorship, suggestioms, resources and tips on how best to reach my goals
 
  <h2> 📫Let's Connect</h2>
  <p>Feel free to reach out via email: <a href=""mailto:tshoniunathi@gmail.com>Unathi Tshoni</a></p>
