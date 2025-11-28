@@ -7,24 +7,33 @@ I come from an academic and scientific research background, where curiosity and 
 
 That same curiosity is now what draws me into the tech world. I’m pursuing a path in technology because it affords me the tools to be innovative, test ideas, and develop solutions that make a real, tangible difference. It also allows me space to invent and push boundaries, while solving meaningful problems through hands-on learning and creative experimentation.
 
+###
+
 <h2> 💻 My adventure in tech</h2>
 I’ve explored frontend web development and continue to build my skills in it, though my main focus has shifted toward AWS Cloud Computing. I am currently pursuing the AWS Cloud Practitioner certification with the AWS Re/Start Programe. Along this journey, I’ve discovered (so far),a strong interests in: 
-<p>🗄️Databases &rarr; data modelling, querying, and understanding how systems store and manage information</p>
-<p>🔐Security &rarr; ensuring systems, networks, and data stay protected</p>
-<p>🌐Networking  &rarr; understanding how systems communicate and how cloud infrastructure is designed</p>
-<p>📈Data  &rarr; exploring the power of data analysis and how insights can guide decisions</p>
-<p>🐍Python – using programming to automate tasks, manipulate data, and build tools that solve real-world problems</p>
+<ul>
+  <li>🗄️Databases &rarr; data modelling, querying, and understanding how systems store and manage information</li>
+  <li>🔐Security &rarr; ensuring systems, networks, and data stay protected</li>
+  <li>🌐Networking  &rarr; understanding how systems communicate and how cloud infrastructure is designed</li>
+  <li>📈Data  &rarr; exploring the power of data analysis and how insights can guide decisions</li>
+  <li>🐍Python – using programming to automate tasks, manipulate data, and build tools that solve real-world problems</li>
+</ul>
+
+###
 
 <h2> 🚀 In the lab: Current Affairs</h2>
 <ul>
   <li>AWS Learning Modules  to get cloud practitioner certification
 </li>
-  <li>- build a strong foundation in cloud computing</li>
+  <li>Build a strong foundation in cloud computing</li>
 </ul>
 
 <h2> 🎯 What's next?</h2>
-- AWS Certified Solutions Architect
-- AWS Certified Data Analytics - Specialty
+<ul>
+  <li>AWS Certified Solutions Architect- Associate
+</li>
+  <li>AWS Certified Data Analytics - Specialty</li>
+</ul>
 
 ### 
 
