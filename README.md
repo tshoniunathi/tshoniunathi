@@ -9,10 +9,11 @@ That same curiosity is now what draws me into the tech world. I’m pursuing a p
 
 <h2> 💻 My adventure in tech</h2>
 I’ve explored frontend web development and continue to build my skills in it, though my main focus has shifted toward AWS Cloud Computing. I am currently pursuing the AWS Cloud Practitioner certification with the AWS Re/Start Programe. Along this journey, I’ve discovered (so far),a strong interests in: 
-🗄️Databases &rarr; data modelling, querying, and understanding how systems store and manage information
-🔐Security &rarr; ensuring systems, networks, and data stay protected
-🌐Networking  &rarr; understanding how systems communicate and how cloud infrastructure is designed
-📈Data  &rarr; exploring the power of data analysis and how insights can guide decisions
+<p>🗄️Databases &rarr; data modelling, querying, and understanding how systems store and manage information</p>
+<p>🔐Security &rarr; ensuring systems, networks, and data stay protected</p>
+<p>🌐Networking  &rarr; understanding how systems communicate and how cloud infrastructure is designed</p>
+<p>📈Data  &rarr; exploring the power of data analysis and how insights can guide decisions</p>
+<p>🐍Python – using programming to automate tasks, manipulate data, and build tools that solve real-world problems</p>
 
 <h2> 🚀 In the lab: Current Affairs</h2>
 - AWS Learning Modules  to get cloud practitioner certification
@@ -20,7 +21,6 @@ I’ve explored frontend web development and continue to build my skills in it, 
 
 <h2> 🎯 What's next?</h2>
 - AWS Certified Solutions Architect
-- AWS Certified Database - Specialty
 - AWS Certified Data Analytics - Specialty
 
 ### 
